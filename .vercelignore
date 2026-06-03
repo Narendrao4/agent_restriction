@@ -1,0 +1,7 @@
+# Ignore local backend and node modules from Vercel deploy by default
+/backend
+/backend/**
+/node_modules
+/frontend/node_modules
+keys
+*.log
